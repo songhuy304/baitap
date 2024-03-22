@@ -1,14 +1,13 @@
-# [Tên của bạn]
+# [Dang Song Huy]
 
 ## Xin chào, đây là CV của tôi! 👋
 
-Tôi là [Tên của bạn], một [vị trí công việc hoặc ngành nghề] với kinh nghiệm trong [mô tả vắn tắt về kinh nghiệm hoặc chuyên môn của bạn].
+Tôi là [Dang Song Huy], một [FrontEnd]
 
 ### Về tôi
 
-- 🎓 Tôi đã tốt nghiệp từ [Trường Đại học/Trung tâm Đào tạo] với bằng [Loại bằng] trong [Chuyên ngành].
-- 💼 Hiện tại, tôi đang làm việc tại [Tên công ty hoặc tổ chức].
-- 🌱 Tôi luôn ham học hỏi và phát triển kỹ năng của mình trong [lĩnh vực quan tâm hoặc công nghệ mới].
+- 🎓 Tôi đã tốt nghiệp từ Hutech với bằng Khá trong Công nghệ phần mềm.
+- 🌱 Tôi luôn ham học hỏi và phát triển kỹ năng của mình trong lĩnh vực FrontEnd
 - 💻 Kỹ năng của tôi bao gồm: [Danh sách các kỹ năng hoặc công nghệ bạn sử dụng].
 
 ### Dự án Nổi bật
